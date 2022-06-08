@@ -23,11 +23,6 @@ const names = [
 	"April Tucker",
 	"Ralph Hubbard",
 	"Omar Alexander",
-	"Carlos Abbott",
-	"Miriam Wagner",
-	"Bradley Wilkerson",
-	"Virginia Andrews",
-	"Kelly Snyder",
 ];
 
 function getStyles(name: string, personName: string[], theme: Theme) {
@@ -55,28 +50,59 @@ export default function Results() {
 
 	return (
 		<div>
-			<FormControl sx={{ m: 1, width: 300 }}>
-				<InputLabel id="demo-multiple-name-label">Name</InputLabel>
-				<Select
-					labelId="demo-multiple-name-label"
-					id="demo-multiple-name"
-					multiple
-					value={personName}
-					onChange={handleChange}
-					input={<OutlinedInput label="Name" />}
-					MenuProps={MenuProps}
-				>
-					{names.map((name) => (
-						<MenuItem
-							key={name}
-							value={name}
-							style={getStyles(name, personName, theme)}
-						>
-							{name}
-						</MenuItem>
-					))}
-				</Select>
-			</FormControl>
+			<div>
+				<FormControl sx={{ m: 1, width: 300 }}>
+					<InputLabel id="demo-multiple-name-label">Name</InputLabel>
+					<Select
+						labelId="demo-multiple-name-label"
+						id="demo-multiple-name"
+						value={personName}
+						onChange={handleChange}
+						input={<OutlinedInput label="Name" />}
+						MenuProps={MenuProps}
+					>
+						{names.map((name) => (
+							<MenuItem
+								key={name}
+								value={name}
+								style={getStyles(name, personName, theme)}
+							>
+								{name}
+							</MenuItem>
+						))}
+					</Select>
+				</FormControl>
+			</div>
+			<div>
+				<FormControl sx={{ m: 1, width: 300 }}>
+					<InputLabel id="demo-multiple-name-label">Name</InputLabel>
+					<Select
+						labelId="demo-multiple-name-label"
+						id="demo-multiple-name"
+						value={personName}
+						onChange={handleChange}
+						input={<OutlinedInput label="Name" />}
+						renderValue={(selected) => {
+							if (selected.length === 0) {
+							  return <em>Select a team</em>;
+							}
+				
+							return selected.join(', ');
+						  }}
+						MenuProps={MenuProps}
+					>
+						{names.map((name) => (
+							<MenuItem
+								key={name}
+								value={name}
+								style={getStyles(name, personName, theme)}
+							>
+								{name}
+							</MenuItem>
+						))}
+					</Select>
+				</FormControl>
+			</div>
 		</div>
 	);
 }
