@@ -1,5 +1,8 @@
 import React from "react";
 import Results from "./Results/Results";
+import ExpectedThreats from "./ExpectedThreats/ExpectedThreats";
+import PassMaps from "./PassMaps/PassMaps";
+import PlayerRanking from "./PlayerRanking/PlayerRanking";
 
 import {
 	makeStyles,
@@ -9,8 +12,6 @@ import {
 	Typography,
 	Box,
 } from "@material-ui/core";
-
-
 
 function TabPanel(props) {
 	const { children, value, index, ...other } = props;
@@ -46,6 +47,18 @@ const components = [
 	{
 		Name: Results,
 		id: 0,
+	},
+	{
+		Name: ExpectedThreats,
+		id: 1,
+	},
+	{
+		Name: PassMaps,
+		id: 2,
+	},
+	{
+		Name: PlayerRanking,
+		id: 3,
 	},
 ];
 
@@ -86,12 +99,13 @@ export default function SimpleTabs() {
 					})}
 				</Tabs>
 			</AppBar>
-
-			<TabPanel component={"div"} value={0} index={0}>
-				<div>
-					<Results />
-				</div>
-			</TabPanel>
+			{components.map(({ Name, id }) => {
+				return (
+					<TabPanel key={id} value={value} index={id}>
+						<Name />
+					</TabPanel>
+				);
+			})}
 		</div>
 	);
 }

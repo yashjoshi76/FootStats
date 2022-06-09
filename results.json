@@ -1,0 +1,919 @@
+[
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 6118,
+   "AwayTeamWins": 6161,
+   "Draw": 7721
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 15003,
+   "AwayTeamWins": 1104,
+   "Draw": 3893
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 2719,
+   "AwayTeamWins": 14380,
+   "Draw": 2901
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 18366,
+   "AwayTeamWins": 554,
+   "Draw": 1080
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 595,
+   "AwayTeamWins": 18189,
+   "Draw": 1216
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 19909,
+   "AwayTeamWins": 0,
+   "Draw": 91
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 15313,
+   "AwayTeamWins": 2131,
+   "Draw": 2556
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 1024,
+   "AwayTeamWins": 16869,
+   "Draw": 2107
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 50,
+   "AwayTeamWins": 19637,
+   "Draw": 313
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 13156,
+   "AwayTeamWins": 1511,
+   "Draw": 5333
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 1723,
+   "AwayTeamWins": 15066,
+   "Draw": 3211
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 16432,
+   "AwayTeamWins": 908,
+   "Draw": 2660
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 10014,
+   "AwayTeamWins": 2855,
+   "Draw": 7131
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 15132,
+   "AwayTeamWins": 0,
+   "Draw": 4868
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 14001,
+   "AwayTeamWins": 2782,
+   "Draw": 3217
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 1843,
+   "AwayTeamWins": 14952,
+   "Draw": 3205
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 2646,
+   "AwayTeamWins": 13974,
+   "Draw": 3380
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 18219,
+   "AwayTeamWins": 353,
+   "Draw": 1428
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 11954,
+   "AwayTeamWins": 2645,
+   "Draw": 5401
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 313,
+   "AwayTeamWins": 16439,
+   "Draw": 3248
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 8896,
+   "AwayTeamWins": 4208,
+   "Draw": 6896
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 7231,
+   "AwayTeamWins": 3088,
+   "Draw": 9681
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 316,
+   "AwayTeamWins": 18629,
+   "Draw": 1055
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 14847,
+   "AwayTeamWins": 1396,
+   "Draw": 3757
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 1776,
+   "AwayTeamWins": 15668,
+   "Draw": 2556
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 5615,
+   "AwayTeamWins": 8689,
+   "Draw": 5696
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 13325,
+   "AwayTeamWins": 2311,
+   "Draw": 4364
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 372,
+   "AwayTeamWins": 18053,
+   "Draw": 1575
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 2650,
+   "AwayTeamWins": 10758,
+   "Draw": 6592
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 15144,
+   "AwayTeamWins": 1253,
+   "Draw": 3603
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 2032,
+   "AwayTeamWins": 13433,
+   "Draw": 4535
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 17542,
+   "AwayTeamWins": 629,
+   "Draw": 1829
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 16796,
+   "AwayTeamWins": 485,
+   "Draw": 2719
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 973,
+   "AwayTeamWins": 16694,
+   "Draw": 2333
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 18984,
+   "AwayTeamWins": 182,
+   "Draw": 834
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 7589,
+   "AwayTeamWins": 6806,
+   "Draw": 5605
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 17107,
+   "AwayTeamWins": 553,
+   "Draw": 2340
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 19203,
+   "AwayTeamWins": 116,
+   "Draw": 681
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 2348,
+   "AwayTeamWins": 14200,
+   "Draw": 3452
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 16846,
+   "AwayTeamWins": 650,
+   "Draw": 2504
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 3160,
+   "AwayTeamWins": 9185,
+   "Draw": 7655
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 17,
+   "AwayTeamWins": 19836,
+   "Draw": 147
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 468,
+   "AwayTeamWins": 18189,
+   "Draw": 1343
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 4644,
+   "AwayTeamWins": 11514,
+   "Draw": 3842
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 500,
+   "AwayTeamWins": 16788,
+   "Draw": 2712
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 145,
+   "AwayTeamWins": 19269,
+   "Draw": 586
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 19474,
+   "AwayTeamWins": 46,
+   "Draw": 480
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 1288,
+   "AwayTeamWins": 16427,
+   "Draw": 2285
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 5566,
+   "AwayTeamWins": 10273,
+   "Draw": 4161
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 1037,
+   "AwayTeamWins": 15290,
+   "Draw": 3673
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 13689,
+   "AwayTeamWins": 2652,
+   "Draw": 3659
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 15778,
+   "AwayTeamWins": 1394,
+   "Draw": 2828
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 872,
+   "AwayTeamWins": 10335,
+   "Draw": 8793
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 17060,
+   "AwayTeamWins": 0,
+   "Draw": 2940
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 8539,
+   "AwayTeamWins": 5563,
+   "Draw": 5898
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 11149,
+   "AwayTeamWins": 844,
+   "Draw": 8007
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 19392,
+   "AwayTeamWins": 49,
+   "Draw": 559
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 11276,
+   "AwayTeamWins": 4107,
+   "Draw": 4617
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 13952,
+   "AwayTeamWins": 2880,
+   "Draw": 3168
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 1058,
+   "AwayTeamWins": 14947,
+   "Draw": 3995
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 13532,
+   "AwayTeamWins": 3334,
+   "Draw": 3134
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 949,
+   "AwayTeamWins": 16346,
+   "Draw": 2705
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 4777,
+   "AwayTeamWins": 10278,
+   "Draw": 4945
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 2424,
+   "AwayTeamWins": 12442,
+   "Draw": 5134
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 6734,
+   "AwayTeamWins": 7822,
+   "Draw": 5444
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 16397,
+   "AwayTeamWins": 1230,
+   "Draw": 2373
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 18862,
+   "AwayTeamWins": 0,
+   "Draw": 1138
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 11750,
+   "AwayTeamWins": 3505,
+   "Draw": 4745
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 368,
+   "AwayTeamWins": 18529,
+   "Draw": 1103
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 1911,
+   "AwayTeamWins": 13110,
+   "Draw": 4979
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 5913,
+   "AwayTeamWins": 9311,
+   "Draw": 4776
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 7223,
+   "AwayTeamWins": 1171,
+   "Draw": 11606
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 2964,
+   "AwayTeamWins": 12803,
+   "Draw": 4233
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 4594,
+   "AwayTeamWins": 9745,
+   "Draw": 5661
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 10747,
+   "AwayTeamWins": 4287,
+   "Draw": 4966
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 10224,
+   "AwayTeamWins": 3658,
+   "Draw": 6118
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 321,
+   "AwayTeamWins": 18068,
+   "Draw": 1611
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 17076,
+   "AwayTeamWins": 798,
+   "Draw": 2126
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 292,
+   "AwayTeamWins": 17945,
+   "Draw": 1763
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 3656,
+   "AwayTeamWins": 12417,
+   "Draw": 3927
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 8210,
+   "AwayTeamWins": 5051,
+   "Draw": 6739
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 17547,
+   "AwayTeamWins": 523,
+   "Draw": 1930
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 15081,
+   "AwayTeamWins": 2033,
+   "Draw": 2886
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 14596,
+   "AwayTeamWins": 2500,
+   "Draw": 2904
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 5559,
+   "AwayTeamWins": 7878,
+   "Draw": 6563
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 3418,
+   "AwayTeamWins": 12129,
+   "Draw": 4453
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 141,
+   "AwayTeamWins": 19038,
+   "Draw": 821
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 13992,
+   "AwayTeamWins": 1612,
+   "Draw": 4396
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 1943,
+   "AwayTeamWins": 13755,
+   "Draw": 4302
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 9102,
+   "AwayTeamWins": 6361,
+   "Draw": 4537
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 12527,
+   "AwayTeamWins": 1272,
+   "Draw": 6201
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 13417,
+   "AwayTeamWins": 2866,
+   "Draw": 3717
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 13018,
+   "AwayTeamWins": 2988,
+   "Draw": 3994
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 16384,
+   "AwayTeamWins": 1501,
+   "Draw": 2115
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 17857,
+   "AwayTeamWins": 283,
+   "Draw": 1860
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 12297,
+   "AwayTeamWins": 3228,
+   "Draw": 4475
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 5314,
+   "AwayTeamWins": 10359,
+   "Draw": 4327
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 17496,
+   "AwayTeamWins": 959,
+   "Draw": 1545
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 18102,
+   "AwayTeamWins": 381,
+   "Draw": 1517
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 7882,
+   "AwayTeamWins": 7108,
+   "Draw": 5010
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 16390,
+   "AwayTeamWins": 1133,
+   "Draw": 2477
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 186,
+   "AwayTeamWins": 18732,
+   "Draw": 1082
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 62,
+   "AwayTeamWins": 19588,
+   "Draw": 350
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 9789,
+   "AwayTeamWins": 5514,
+   "Draw": 4697
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 1520,
+   "AwayTeamWins": 14443,
+   "Draw": 4037
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 2242,
+   "AwayTeamWins": 6935,
+   "Draw": 10823
+ },
+ {
+   "home_team": "Everton LFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 16025,
+   "AwayTeamWins": 1261,
+   "Draw": 2714
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 11768,
+   "AwayTeamWins": 3863,
+   "Draw": 4369
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 1794,
+   "AwayTeamWins": 14189,
+   "Draw": 4017
+ },
+ {
+   "home_team": "Bristol City WFC",
+   "away_team": "Aston Villa",
+   "HomeTeamWins": 3009,
+   "AwayTeamWins": 13000,
+   "Draw": 3991
+ },
+ {
+   "home_team": "Brighton & Hove Albion WFC",
+   "away_team": "Tottenham Hotspur Women",
+   "HomeTeamWins": 3453,
+   "AwayTeamWins": 11743,
+   "Draw": 4804
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 12716,
+   "AwayTeamWins": 0,
+   "Draw": 7284
+ },
+ {
+   "home_team": "Manchester United",
+   "away_team": "Reading WFC",
+   "HomeTeamWins": 7014,
+   "AwayTeamWins": 8416,
+   "Draw": 4570
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 7658,
+   "AwayTeamWins": 3664,
+   "Draw": 8678
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 4206,
+   "AwayTeamWins": 10731,
+   "Draw": 5063
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Birmingham City WFC",
+   "HomeTeamWins": 10186,
+   "AwayTeamWins": 4204,
+   "Draw": 5610
+ },
+ {
+   "home_team": "Tottenham Hotspur Women",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 2660,
+   "AwayTeamWins": 12376,
+   "Draw": 4964
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 15153,
+   "AwayTeamWins": 1988,
+   "Draw": 2859
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Chelsea FCW",
+   "HomeTeamWins": 1558,
+   "AwayTeamWins": 13084,
+   "Draw": 5358
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 735,
+   "AwayTeamWins": 15137,
+   "Draw": 4128
+ },
+ {
+   "home_team": "Aston Villa",
+   "away_team": "Arsenal WFC",
+   "HomeTeamWins": 615,
+   "AwayTeamWins": 17502,
+   "Draw": 1883
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 561,
+   "AwayTeamWins": 17258,
+   "Draw": 2181
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 14840,
+   "AwayTeamWins": 2507,
+   "Draw": 2653
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "West Ham United LFC",
+   "HomeTeamWins": 19006,
+   "AwayTeamWins": 0,
+   "Draw": 994
+ },
+ {
+   "home_team": "Chelsea FCW",
+   "away_team": "Brighton & Hove Albion WFC",
+   "HomeTeamWins": 17145,
+   "AwayTeamWins": 551,
+   "Draw": 2304
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Everton LFC",
+   "HomeTeamWins": 3513,
+   "AwayTeamWins": 8524,
+   "Draw": 7963
+ },
+ {
+   "home_team": "Birmingham City WFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 3069,
+   "AwayTeamWins": 10745,
+   "Draw": 6186
+ },
+ {
+   "home_team": "West Ham United LFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 3291,
+   "AwayTeamWins": 10064,
+   "Draw": 6645
+ },
+ {
+   "home_team": "Arsenal WFC",
+   "away_team": "Bristol City WFC",
+   "HomeTeamWins": 16791,
+   "AwayTeamWins": 481,
+   "Draw": 2728
+ },
+ {
+   "home_team": "Manchester City WFC",
+   "away_team": "Manchester United",
+   "HomeTeamWins": 8336,
+   "AwayTeamWins": 5024,
+   "Draw": 6640
+ },
+ {
+   "home_team": "Reading WFC",
+   "away_team": "Manchester City WFC",
+   "HomeTeamWins": 468,
+   "AwayTeamWins": 17058,
+   "Draw": 2474
+ }
+]

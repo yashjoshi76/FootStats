@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {
 	makeStyles,
 	InputLabel,
@@ -9,7 +9,11 @@ import {
 	Select,
 } from "@material-ui/core";
 
-export default function Dropdown() {
+export default function Dropdown(TeamNames) {
+	const [teams, setTeams] = useState(TeamNames.data);
+	const [team1, setTeam] = useState("");
+	const [team2, setTeam2] = useState("");
+
 	const useStyles = makeStyles((theme) => ({
 		formControl: {
 			margin: theme.spacing(1),
@@ -21,65 +25,67 @@ export default function Dropdown() {
 	}));
 
 	const classes = useStyles();
-	const [team1, setTeam] = React.useState("");
-	const [team2, setTeam2] = React.useState("");
 
 	const handleChange = (event) => {
 		setTeam(event.target.value);
+		console.log(team1);
 	};
 
 	const secondChange = (event) => {
 		setTeam2(event.target.value);
-		console.log(event.target.value);
+		// console.log(team2);
 	};
 
 	return (
 		<Container className="d-flex flex-coloumn justify-content-center">
-		
-				<FormControl
-					componenet={"div"}
-					variant="outlined"
-					className={classes.formControl}
+			<FormControl
+				componenet={"div"}
+				variant="outlined"
+				className={classes.formControl}
+			>
+				<InputLabel componenet={"div"} id="demo-simple-select-outlined-label">
+					Select Team
+				</InputLabel>
+				<Select
+					labelId="demo-simple-select-outlined-label"
+					id="demo-simple-select-outlined"
+					value={team1}
+					onChange={(event) => {
+						handleChange(event);
+						console.log(event.target.value);
+					}}
+					label="Age"
 				>
-					<InputLabel componenet={"div"} id="demo-simple-select-outlined-label">
-						Select Team
-					</InputLabel>
-					<Select
-						labelId="demo-simple-select-outlined-label"
-						id="demo-simple-select-outlined"
-						value={team1}
-						onChange={handleChange}
-						label="Age"
-					>
-						<MenuItem value="">
-							<em>None</em>
-						</MenuItem>
-						<MenuItem value={10}>Ten</MenuItem>
-						<MenuItem value={20}>Twenty</MenuItem>
-						<MenuItem value={30}>Thirty</MenuItem>
-					</Select>
-				</FormControl>
-		
-				<FormControl variant="outlined" className={classes.formControl}>
-					<InputLabel id="demo-simple-select-outlined-label">
-						Select Team II
-					</InputLabel>
-					<Select
-						labelId="demo-simple-select-outlined-label"
-						id="demo-simple-select-outlined"
-						value={team2}
-						onChange={secondChange}
-						label="Age"
-					>
-						<MenuItem value="">
-							<em>None</em>
-						</MenuItem>
-						<MenuItem value={10}>Ten</MenuItem>
-						<MenuItem value={20}>Twenty</MenuItem>
-						<MenuItem value={30}>Thirty</MenuItem>
-					</Select>
-				</FormControl>
-		
+					{teams.map((t, i) => {
+						return (
+							<MenuItem key={i} value={t.Team_Name}>
+								{t.Team_Name}
+							</MenuItem>
+						);
+					})}
+				</Select>
+			</FormControl>
+
+			<FormControl variant="outlined" className={classes.formControl}>
+				<InputLabel id="demo-simple-select-outlined-label">
+					Select Team II
+				</InputLabel>
+				<Select
+					labelId="demo-simple-select-outlined-label"
+					id="demo-simple-select-outlined"
+					value={team2}
+					onChange={secondChange}
+					label="Age"
+				>
+					{teams.map((t, i) => {
+						return (
+							<MenuItem key={i} value={t.Team_Name}>
+								{t.Team_Name}
+							</MenuItem>
+						);
+					})}
+				</Select>
+			</FormControl>
 		</Container>
 	);
 }
