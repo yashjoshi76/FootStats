@@ -1,6 +1,6 @@
 import React from "react";
 import Home from "./views/Home/Home";
-import TeamView from "./views/TeamView/TeamView.tsx"
+import TeamView from "./views/TeamView/TeamView"
 import PlayerView from "./views/PlayerView/PlayerView";
 import { BrowserRouter, Switch, Route, Routes } from "react-router-dom";
 
