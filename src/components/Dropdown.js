@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import "./MuiGlobalStyles.css";
 import {
 	makeStyles,
 	InputLabel,
@@ -18,6 +19,7 @@ export default function Dropdown(TeamNames) {
 		formControl: {
 			margin: theme.spacing(1),
 			minWidth: 300,
+			maxHeight: 100,
 		},
 		selectEmpty: {
 			marginTop: theme.spacing(2),
@@ -38,12 +40,8 @@ export default function Dropdown(TeamNames) {
 
 	return (
 		<Container className="d-flex flex-coloumn justify-content-center">
-			<FormControl
-				componenet={"div"}
-				variant="outlined"
-				className={classes.formControl}
-			>
-				<InputLabel componenet={"div"} id="demo-simple-select-outlined-label">
+			<FormControl variant="outlined" className={classes.formControl}>
+				<InputLabel id="demo-simple-select-outlined-label">
 					Select Team
 				</InputLabel>
 				<Select
@@ -54,11 +52,15 @@ export default function Dropdown(TeamNames) {
 						handleChange(event);
 						console.log(event.target.value);
 					}}
-					label="Age"
+					label="Teams"
 				>
 					{teams.map((t, i) => {
 						return (
-							<MenuItem key={i} value={t.Team_Name}>
+							<MenuItem
+								style={{ maxHeight: "150px !important" }}
+								key={i}
+								value={t.Team_Name}
+							>
 								{t.Team_Name}
 							</MenuItem>
 						);

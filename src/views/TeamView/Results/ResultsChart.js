@@ -21,39 +21,36 @@ ChartJS.register(
 );
 
 export const options = {
-	indexAxis: "y",
-	elements: {
-		bar: {
-			borderWidth: 2,
-			
-		},
-	},
 	responsive: true,
 	plugins: {
 		legend: {
-			position: "right",
+			position: "top",
 		},
 		title: {
 			display: true,
-			text: "Result Probability",
+			text: "Teams' Probability Distribution",
 		},
 	},
 };
 
-const labels = ["ManCity", "Liverpool", "ManUnited"];
+const labels = ["January", "February", "March", "April", "May", "June", "July"];
 
 export const data = {
 	labels,
 	datasets: [
 		{
 			label: "Dataset 1",
-			data: labels.map(() => faker.datatype.number({ min: 10, max: 100 })),
-			borderColor: "rgb(255, 99, 132)",
+			data: labels.map(() => faker.datatype.number({ min: 0, max: 1000 })),
 			backgroundColor: "rgba(255, 99, 132, 0.5)",
+		},
+		{
+			label: "Dataset 2",
+			data: labels.map(() => faker.datatype.number({ min: 0, max: 1000 })),
+			backgroundColor: "rgba(53, 162, 235, 0.5)",
 		},
 	],
 };
 
-export default function BarChart() {
+export default function ResultsChart() {
 	return <Bar options={options} data={data} />;
 }
