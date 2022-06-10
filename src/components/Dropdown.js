@@ -29,13 +29,24 @@ export default function Dropdown(TeamNames) {
 	const classes = useStyles();
 
 	const handleChange = (event) => {
-		setTeam(event.target.value);
-		console.log(team1);
+		if (event.target.value === team2) {
+			alert("Cannot compare same teams!");
+		}
+		else {
+			setTeam(event.target.value);
+		}
+		
+		// console.log(team1);
 	};
 
 	const secondChange = (event) => {
-		setTeam2(event.target.value);
-		// console.log(team2);
+		if (event.target.value === team1) {
+			alert("Cannot compare same teams!");
+		}
+		else {
+			setTeam2(event.target.value);
+		}
+		
 	};
 
 	return (
@@ -50,7 +61,6 @@ export default function Dropdown(TeamNames) {
 					value={team1}
 					onChange={(event) => {
 						handleChange(event);
-						console.log(event.target.value);
 					}}
 					label="Teams"
 				>
